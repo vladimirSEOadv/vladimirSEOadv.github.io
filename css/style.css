@@ -1,3 +1,7 @@
 body {
   background-color: 0;
+  menu {
+    width: 200px;
+    height: 200px;
+  }
 }
