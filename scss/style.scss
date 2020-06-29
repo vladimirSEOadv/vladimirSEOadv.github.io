@@ -78,7 +78,6 @@ h6 {
 }
 
 body {
-	background-color: green($color: #000000);
 }
 
 menu {
@@ -86,7 +85,7 @@ menu {
 	padding-top: 40px;
 	margin-left: 35%;
 	margin-right: 35%;
-	background-color: green($color: #000000);
+	color: red($color: #000000);
 
 	.links {
 		display: inline;
