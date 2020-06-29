@@ -1,26 +1,2 @@
 body {
 }
-
-menu {
-	display: block;
-	position: relative;
-
-	color: red($color: #000000);
-	.links {
-		display: inline;
-		text-align: center;
-		position: absolute;
-	}
-	.link1 {
-		display: inline;
-	}
-	.link2 {
-		display: inline;
-	}
-	.link3 {
-		display: inline;
-	}
-	.link4 {
-		display: inline;
-	}
-}
