@@ -80,3 +80,27 @@ h6 {
 body {
 	background-color: green($color: #000000);
 }
+
+menu {
+	font-size: 20px;
+	padding-top: 40px;
+	margin-left: 35%;
+	margin-right: 35%;
+	background-color: green($color: #000000);
+
+	.links {
+		display: inline;
+	}
+	.link1 {
+		display: inline;
+	}
+	.link2 {
+		display: inline;
+	}
+	.link3 {
+		display: inline;
+	}
+	.link4 {
+		display: inline;
+	}
+}
